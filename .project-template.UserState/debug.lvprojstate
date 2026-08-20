@@ -1,0 +1,58 @@
+<Configuration>
+  <Target name="My Computer">
+    <EnableDebuggingForAllVIs>0</EnableDebuggingForAllVIs>
+    <VI name="Torque Transducer.lvclass:Example.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="329"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Torque Transducer.lvclass:Read Config.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="2600"/>
+          <SignalUID value="679"/>
+          <SignalUID value="730"/>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Torque Transducer.lvclass:convert cluster.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+        </Generic>
+      </Probes>
+    </VI>
+    <VI name="Torque Transducer.lvclass:string to enum.vi">
+      <Breakpoints>
+        <NodeIndexes>
+        </NodeIndexes>
+        <SignalIndexes>
+        </SignalIndexes>
+      </Breakpoints>
+      <Probes>
+        <Generic>
+          <SignalUID value="1237"/>
+        </Generic>
+      </Probes>
+    </VI>
+  </Target>
+</Configuration>
