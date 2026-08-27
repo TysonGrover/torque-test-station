@@ -1,0 +1,11 @@
+{
+
+  "Modbus_Param":{
+    "COM_Port":"COM1",
+    "Baud_Rate":115200,
+    "Unit_ID":3,
+    "parity":0,
+    "flow_control":0
+    }
+
+}
