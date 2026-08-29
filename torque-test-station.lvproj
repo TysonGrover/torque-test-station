@@ -32,6 +32,7 @@
 		</Item>
 		<Item Name="Modules" Type="Folder">
 			<Item Name="Data Log.lvlib" Type="Library" URL="../Libraries/Data Log/Data Log.lvlib"/>
+			<Item Name="Torque Transducer.lvlib" Type="Library" URL="../Libraries/Torque Transducer/Torque Transducer.lvlib"/>
 			<Item Name="USB IO.lvlib" Type="Library" URL="../Libraries/USB IO/USB IO.lvlib"/>
 		</Item>
 		<Item Name="SubVIs" Type="Folder" URL="../SubVIs">
@@ -39,6 +40,7 @@
 		</Item>
 		<Item Name="Testers" Type="Folder">
 			<Item Name="Test Data Log API.vi" Type="VI" URL="../Libraries/Data Log/Test Data Log API.vi"/>
+			<Item Name="Test Torque Transducer API.vi" Type="VI" URL="../Libraries/Torque Transducer/Test Torque Transducer API.vi"/>
 			<Item Name="Test USB IO API.vi" Type="VI" URL="../Libraries/USB IO/Test USB IO API.vi"/>
 		</Item>
 		<Item Name="TestVIs" Type="Folder" URL="../TestVIs">
