@@ -18,8 +18,18 @@
 				<Item Name="Hide Panel Argument--cluster.ctl" Type="VI" URL="../Hide Panel Argument--cluster.ctl"/>
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
 				<Item Name="Get Module Execution Status Argument--cluster.ctl" Type="VI" URL="../Get Module Execution Status Argument--cluster.ctl"/>
-				<Item Name="read torque dvr Argument--cluster.ctl" Type="VI" URL="../read torque dvr Argument--cluster.ctl"/>
-				<Item Name="read torque dvr (Reply Payload)--cluster.ctl" Type="VI" URL="../read torque dvr (Reply Payload)--cluster.ctl"/>
+				<Item Name="Get Torque DVR Argument--cluster.ctl" Type="VI" URL="../Get Torque DVR Argument--cluster.ctl"/>
+				<Item Name="Get Torque DVR (Reply Payload)--cluster.ctl" Type="VI" URL="../Get Torque DVR (Reply Payload)--cluster.ctl"/>
+				<Item Name="read torque Argument--cluster.ctl" Type="VI" URL="../read torque Argument--cluster.ctl"/>
+				<Item Name="read torque (Reply Payload)--cluster.ctl" Type="VI" URL="../read torque (Reply Payload)--cluster.ctl"/>
+				<Item Name="close Argument--cluster.ctl" Type="VI" URL="../close Argument--cluster.ctl"/>
+				<Item Name="close (Reply Payload)--cluster.ctl" Type="VI" URL="../close (Reply Payload)--cluster.ctl"/>
+				<Item Name="read config Argument--cluster.ctl" Type="VI" URL="../read config Argument--cluster.ctl"/>
+				<Item Name="read config (Reply Payload)--cluster.ctl" Type="VI" URL="../read config (Reply Payload)--cluster.ctl"/>
+				<Item Name="init Argument--cluster.ctl" Type="VI" URL="../init Argument--cluster.ctl"/>
+				<Item Name="init (Reply Payload)--cluster.ctl" Type="VI" URL="../init (Reply Payload)--cluster.ctl"/>
+				<Item Name="init daq Argument--cluster.ctl" Type="VI" URL="../init daq Argument--cluster.ctl"/>
+				<Item Name="init daq (Reply Payload)--cluster.ctl" Type="VI" URL="../init daq (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -32,7 +42,11 @@
 			<Item Name="Hide Panel.vi" Type="VI" URL="../Hide Panel.vi"/>
 			<Item Name="Stop Module.vi" Type="VI" URL="../Stop Module.vi"/>
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
-			<Item Name="read torque dvr.vi" Type="VI" URL="../read torque dvr.vi"/>
+			<Item Name="Get Torque DVR.vi" Type="VI" URL="../Get Torque DVR.vi"/>
+			<Item Name="read torque.vi" Type="VI" URL="../read torque.vi"/>
+			<Item Name="close.vi" Type="VI" URL="../close.vi"/>
+			<Item Name="read config.vi" Type="VI" URL="../read config.vi"/>
+			<Item Name="init daq.vi" Type="VI" URL="../init daq.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
