@@ -24,6 +24,8 @@
 				<Item Name="init (Reply Payload)--cluster.ctl" Type="VI" URL="../init (Reply Payload)--cluster.ctl"/>
 				<Item Name="init driver Argument--cluster.ctl" Type="VI" URL="../init driver Argument--cluster.ctl"/>
 				<Item Name="init driver (Reply Payload)--cluster.ctl" Type="VI" URL="../init driver (Reply Payload)--cluster.ctl"/>
+				<Item Name="Clear Motor Error Argument--cluster.ctl" Type="VI" URL="../Clear Motor Error Argument--cluster.ctl"/>
+				<Item Name="Clear Motor Error (Reply Payload)--cluster.ctl" Type="VI" URL="../Clear Motor Error (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -38,6 +40,7 @@
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="close.vi" Type="VI" URL="../close.vi"/>
 			<Item Name="init driver.vi" Type="VI" URL="../init driver.vi"/>
+			<Item Name="Clear Motor Error.vi" Type="VI" URL="../Clear Motor Error.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
