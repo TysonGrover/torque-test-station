@@ -26,6 +26,14 @@
 				<Item Name="init driver (Reply Payload)--cluster.ctl" Type="VI" URL="../init driver (Reply Payload)--cluster.ctl"/>
 				<Item Name="Clear Motor Error Argument--cluster.ctl" Type="VI" URL="../Clear Motor Error Argument--cluster.ctl"/>
 				<Item Name="Clear Motor Error (Reply Payload)--cluster.ctl" Type="VI" URL="../Clear Motor Error (Reply Payload)--cluster.ctl"/>
+				<Item Name="read config Argument--cluster.ctl" Type="VI" URL="../read config Argument--cluster.ctl"/>
+				<Item Name="read config (Reply Payload)--cluster.ctl" Type="VI" URL="../read config (Reply Payload)--cluster.ctl"/>
+				<Item Name="Read Angle Argument--cluster.ctl" Type="VI" URL="../Read Angle Argument--cluster.ctl"/>
+				<Item Name="Read Angle (Reply Payload)--cluster.ctl" Type="VI" URL="../Read Angle (Reply Payload)--cluster.ctl"/>
+				<Item Name="Jog Argument--cluster.ctl" Type="VI" URL="../Jog Argument--cluster.ctl"/>
+				<Item Name="Jog (Reply Payload)--cluster.ctl" Type="VI" URL="../Jog (Reply Payload)--cluster.ctl"/>
+				<Item Name="Go To Angle Argument--cluster.ctl" Type="VI" URL="../Go To Angle Argument--cluster.ctl"/>
+				<Item Name="Go To Angle (Reply Payload)--cluster.ctl" Type="VI" URL="../Go To Angle (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -41,6 +49,10 @@
 			<Item Name="close.vi" Type="VI" URL="../close.vi"/>
 			<Item Name="init driver.vi" Type="VI" URL="../init driver.vi"/>
 			<Item Name="Clear Motor Error.vi" Type="VI" URL="../Clear Motor Error.vi"/>
+			<Item Name="read config.vi" Type="VI" URL="../read config.vi"/>
+			<Item Name="Read Angle.vi" Type="VI" URL="../Read Angle.vi"/>
+			<Item Name="Jog.vi" Type="VI" URL="../Jog.vi"/>
+			<Item Name="Go To Angle.vi" Type="VI" URL="../Go To Angle.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
