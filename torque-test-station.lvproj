@@ -52,6 +52,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Host.vi" Type="VI" URL="../Host.vi"/>
+		<Item Name="Untitled 5.vi" Type="VI" URL="../SubVIs/Untitled 5.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
