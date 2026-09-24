@@ -1,7 +1,7 @@
 {
 
-  "IO":"USB-6001",
-  "Power_supply":"Simulation"
+  "IO":"USB-6000",
+  "Power_supply":"PSP-603"
   "Motor":"CL57RS"
 
 }

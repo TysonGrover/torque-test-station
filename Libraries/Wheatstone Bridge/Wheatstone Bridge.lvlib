@@ -26,6 +26,12 @@
 				<Item Name="init (Reply Payload)--cluster.ctl" Type="VI" URL="../init (Reply Payload)--cluster.ctl"/>
 				<Item Name="init device Argument--cluster.ctl" Type="VI" URL="../init device Argument--cluster.ctl"/>
 				<Item Name="init device (Reply Payload)--cluster.ctl" Type="VI" URL="../init device (Reply Payload)--cluster.ctl"/>
+				<Item Name="close Argument--cluster.ctl" Type="VI" URL="../close Argument--cluster.ctl"/>
+				<Item Name="close (Reply Payload)--cluster.ctl" Type="VI" URL="../close (Reply Payload)--cluster.ctl"/>
+				<Item Name="read data Argument--cluster.ctl" Type="VI" URL="../read data Argument--cluster.ctl"/>
+				<Item Name="read data (Reply Payload)--cluster.ctl" Type="VI" URL="../read data (Reply Payload)--cluster.ctl"/>
+				<Item Name="read dvr Argument--cluster.ctl" Type="VI" URL="../read dvr Argument--cluster.ctl"/>
+				<Item Name="read dvr (Reply Payload)--cluster.ctl" Type="VI" URL="../read dvr (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -41,6 +47,9 @@
 			<Item Name="select child.vi" Type="VI" URL="../select child.vi"/>
 			<Item Name="read config.vi" Type="VI" URL="../read config.vi"/>
 			<Item Name="init device.vi" Type="VI" URL="../init device.vi"/>
+			<Item Name="close.vi" Type="VI" URL="../close.vi"/>
+			<Item Name="read data.vi" Type="VI" URL="../read data.vi"/>
+			<Item Name="read dvr.vi" Type="VI" URL="../read dvr.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
