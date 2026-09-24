@@ -1,0 +1,20 @@
+Add the following:
+
+	General class
+		Containing general methods that are always needed regardless of use case
+		Methods:
+		init
+			In- / Out-
+		read config
+			In- file path, cluster or variant / Out-
+		close
+			In- / Out-
+		write config
+			In- / Out-
+		
+	Add data log class
+		Pondering always having a data log class because it is needed in almost every application
+		Child class of the general class
+		Methods:
+		write csv
+		write pdf

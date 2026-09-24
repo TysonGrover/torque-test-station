@@ -1,0 +1,3 @@
+panel select.ctl
+	C:\Users\grove\Desktop\LabVIEW\Git\torque-test-station\Controls\panel select.ctl
+	C:\Users\grove\Desktop\LabVIEW\Git\torque-test-station\Images\panel select.ctl
