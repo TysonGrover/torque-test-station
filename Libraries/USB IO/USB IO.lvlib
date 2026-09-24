@@ -36,6 +36,8 @@ USB-6001</Property>
 				<Item Name="stop device (Reply Payload)--cluster.ctl" Type="VI" URL="../stop device (Reply Payload)--cluster.ctl"/>
 				<Item Name="analog read Argument--cluster.ctl" Type="VI" URL="../analog read Argument--cluster.ctl"/>
 				<Item Name="analog read (Reply Payload)--cluster.ctl" Type="VI" URL="../analog read (Reply Payload)--cluster.ctl"/>
+				<Item Name="digital write Argument--cluster.ctl" Type="VI" URL="../digital write Argument--cluster.ctl"/>
+				<Item Name="digital write (Reply Payload)--cluster.ctl" Type="VI" URL="../digital write (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -54,6 +56,7 @@ USB-6001</Property>
 			<Item Name="init device.vi" Type="VI" URL="../init device.vi"/>
 			<Item Name="stop device.vi" Type="VI" URL="../stop device.vi"/>
 			<Item Name="analog read.vi" Type="VI" URL="../analog read.vi"/>
+			<Item Name="digital write.vi" Type="VI" URL="../digital write.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
