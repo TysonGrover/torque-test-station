@@ -34,6 +34,12 @@
 				<Item Name="jog motor (Reply Payload)--cluster.ctl" Type="VI" URL="../jog motor (Reply Payload)--cluster.ctl"/>
 				<Item Name="select child Argument--cluster.ctl" Type="VI" URL="../select child Argument--cluster.ctl"/>
 				<Item Name="select child (Reply Payload)--cluster.ctl" Type="VI" URL="../select child (Reply Payload)--cluster.ctl"/>
+				<Item Name="Disable Argument--cluster.ctl" Type="VI" URL="../Disable Argument--cluster.ctl"/>
+				<Item Name="Disable (Reply Payload)--cluster.ctl" Type="VI" URL="../Disable (Reply Payload)--cluster.ctl"/>
+				<Item Name="Home Argument--cluster.ctl" Type="VI" URL="../Home Argument--cluster.ctl"/>
+				<Item Name="Home (Reply Payload)--cluster.ctl" Type="VI" URL="../Home (Reply Payload)--cluster.ctl"/>
+				<Item Name="zero Argument--cluster.ctl" Type="VI" URL="../zero Argument--cluster.ctl"/>
+				<Item Name="zero (Reply Payload)--cluster.ctl" Type="VI" URL="../zero (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -54,6 +60,8 @@
 			<Item Name="go to position.vi" Type="VI" URL="../go to position.vi"/>
 			<Item Name="jog motor.vi" Type="VI" URL="../jog motor.vi"/>
 			<Item Name="select child.vi" Type="VI" URL="../select child.vi"/>
+			<Item Name="Disable.vi" Type="VI" URL="../Disable.vi"/>
+			<Item Name="zero.vi" Type="VI" URL="../zero.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
