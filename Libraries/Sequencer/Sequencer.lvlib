@@ -24,6 +24,12 @@
 				<Item Name="Home (Reply Payload)--cluster.ctl" Type="VI" URL="../Home (Reply Payload)--cluster.ctl"/>
 				<Item Name="Home Stepper Argument--cluster.ctl" Type="VI" URL="../Home Stepper Argument--cluster.ctl"/>
 				<Item Name="Home Stepper (Reply Payload)--cluster.ctl" Type="VI" URL="../Home Stepper (Reply Payload)--cluster.ctl"/>
+				<Item Name="Go To Angle Argument--cluster.ctl" Type="VI" URL="../Go To Angle Argument--cluster.ctl"/>
+				<Item Name="Go To Angle (Reply Payload)--cluster.ctl" Type="VI" URL="../Go To Angle (Reply Payload)--cluster.ctl"/>
+				<Item Name="Part Removal Position Argument--cluster.ctl" Type="VI" URL="../Part Removal Position Argument--cluster.ctl"/>
+				<Item Name="Part Removal Position (Reply Payload)--cluster.ctl" Type="VI" URL="../Part Removal Position (Reply Payload)--cluster.ctl"/>
+				<Item Name="Torque Test Argument--cluster.ctl" Type="VI" URL="../Torque Test Argument--cluster.ctl"/>
+				<Item Name="Torque Test (Reply Payload)--cluster.ctl" Type="VI" URL="../Torque Test (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -38,6 +44,9 @@
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="Get Modules.vi" Type="VI" URL="../Get Modules.vi"/>
 			<Item Name="Home Stepper.vi" Type="VI" URL="../Home Stepper.vi"/>
+			<Item Name="Go To Angle.vi" Type="VI" URL="../Go To Angle.vi"/>
+			<Item Name="Part Removal Position.vi" Type="VI" URL="../Part Removal Position.vi"/>
+			<Item Name="Torque Test.vi" Type="VI" URL="../Torque Test.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>

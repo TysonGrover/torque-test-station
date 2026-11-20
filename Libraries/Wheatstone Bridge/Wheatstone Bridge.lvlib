@@ -32,6 +32,8 @@
 				<Item Name="read data (Reply Payload)--cluster.ctl" Type="VI" URL="../read data (Reply Payload)--cluster.ctl"/>
 				<Item Name="read dvr Argument--cluster.ctl" Type="VI" URL="../read dvr Argument--cluster.ctl"/>
 				<Item Name="read dvr (Reply Payload)--cluster.ctl" Type="VI" URL="../read dvr (Reply Payload)--cluster.ctl"/>
+				<Item Name="zero Argument--cluster.ctl" Type="VI" URL="../zero Argument--cluster.ctl"/>
+				<Item Name="zero (Reply Payload)--cluster.ctl" Type="VI" URL="../zero (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -50,6 +52,7 @@
 			<Item Name="close.vi" Type="VI" URL="../close.vi"/>
 			<Item Name="read data.vi" Type="VI" URL="../read data.vi"/>
 			<Item Name="read dvr.vi" Type="VI" URL="../read dvr.vi"/>
+			<Item Name="zero.vi" Type="VI" URL="../zero.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
