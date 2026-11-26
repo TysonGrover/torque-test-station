@@ -1,0 +1,26 @@
+[
+  {
+    "Angle_Min": 0,
+    "Angle_Max": 5,
+    "Torque_Min": 30,
+    "Torque_Max": 100
+  },
+  {
+    "Angle_Min": 0,
+    "Angle_Max": 0,
+    "Torque_Min": 0,
+    "Torque_Max": 0
+  },
+  {
+    "Angle_Min": 0,
+    "Angle_Max": 0,
+    "Torque_Min": 0,
+    "Torque_Max": 0
+  },
+  {
+    "Angle_Min": 0,
+    "Angle_Max": 0,
+    "Torque_Min": 0,
+    "Torque_Max": 0
+  }
+]
